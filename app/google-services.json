@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "844403613809",
+    "firebase_url": "https://to-do-list-6435d.firebaseio.com",
+    "project_id": "to-do-list-6435d",
+    "storage_bucket": "to-do-list-6435d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:844403613809:android:85a960019ff8446719fbd0",
+        "android_client_info": {
+          "package_name": "com.mathgeniusguide.todolist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "844403613809-nfi9bd4u896eadl9ao4kkfr1kr0h2eiv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mathgeniusguide.todolist",
+            "certificate_hash": "3abefd2e60f0eb78d9cf2bca0603b120177d1b80"
+          }
+        },
+        {
+          "client_id": "844403613809-edljcqcfjgf0huag6fm4vl1grftelml6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCixfVtf5k0Inu3U_hRxBqeOGO5Tsfm7FM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "844403613809-edljcqcfjgf0huag6fm4vl1grftelml6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
